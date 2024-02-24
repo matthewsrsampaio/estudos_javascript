@@ -21,4 +21,9 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+    margin-top: 10px;
+}
+
+select {
+    width: 200px;
 }
